@@ -1,0 +1,883 @@
+[{
+        "HotelName": " Hotel La Croix Waikiki",
+        "Rating": 4.5,
+        "Reviews": 2155,
+        "AirLineName": "Qatar Airways",
+        "countryName": "France",
+        "Price": 105,
+        "AvailabilityDate": "2024-07-19"
+    },
+    {
+        "HotelName": " Hotel La Croix",
+        "Rating": 5,
+        "Reviews": 3107,
+        "AirLineName": "WCCjAlvE",
+        "countryName": "Germany",
+        "Price": 161,
+        "AvailabilityDate": "2024-08-18"
+    },
+    {
+        "HotelName": " Prince Waikiki",
+        "Rating": 4.5,
+        "Reviews": 6700,
+        "AirLineName": "zOVWLeoA",
+        "countryName": "Scotland",
+        "Price": 113,
+        "AvailabilityDate": "2024-06-04"
+    },
+    {
+        "HotelName": " Prince Waikiki Croix",
+        "Rating": 4.5,
+        "Reviews": 7461,
+        "AirLineName": "EGJSyiIG",
+        "countryName": "Qatar",
+        "Price": 291,
+        "AvailabilityDate": "2023-12-21"
+    },
+    {
+        "HotelName": " Outrigger Waikiki Beach",
+        "Rating": 4.5,
+        "Reviews": 3583,
+        "AirLineName": "CsfLnbci",
+        "countryName": "MoJMioLj",
+        "Price": 214,
+        "AvailabilityDate": "2024-05-24"
+    },
+    {
+        "HotelName": " Rigger Waikiki Beach Resort",
+        "Rating": 4.5,
+        "Reviews": 87,
+        "AirLineName": "AVIOLLYW",
+        "countryName": "rMqFEIKd",
+        "Price": 467,
+        "AvailabilityDate": "2024-05-21"
+    },
+    {
+        "HotelName": " Out Reef Beach Resort",
+        "Rating": 3.9,
+        "Reviews": 5157,
+        "AirLineName": "tgzApBuT",
+        "countryName": "aVEzEHoj",
+        "Price": 360,
+        "AvailabilityDate": "2023-12-13"
+    },
+    {
+        "HotelName": " Reef Waikiki Beach Resort",
+        "Rating": 4.5,
+        "Reviews": 3402,
+        "AirLineName": "fPnndPli",
+        "countryName": "bNCOvdcf",
+        "Price": 410,
+        "AvailabilityDate": "2024-08-13"
+    },
+    {
+        "HotelName": " Koloa Landing Resort at Poipu, Autograph Collection",
+        "Rating": 4.7,
+        "Reviews": 2198,
+        "AirLineName": "PpvzGdWP",
+        "countryName": "jMhDsnlF",
+        "Price": 357,
+        "AvailabilityDate": "2024-01-14"
+    },
+    {
+        "HotelName": " Koloa Landing Resort at Poipu",
+        "Rating": 4.5,
+        "Reviews": 5031,
+        "AirLineName": "HKORDqRS",
+        "countryName": "tamlyBhc",
+        "Price": 442,
+        "AvailabilityDate": "2024-06-27"
+    },
+    {
+        "HotelName": " Waikiki Beachcomber Hotel",
+        "Rating": 4.5,
+        "Reviews": 9981,
+        "AirLineName": "Etihad Airways",
+        "countryName": "ziMEqSGA",
+        "Price": 227,
+        "AvailabilityDate": "2023-11-25"
+    },
+    {
+        "HotelName": " OutriggerOut Hotel",
+        "Rating": 4.7,
+        "Reviews": 173,
+        "AirLineName": "jsWeRpYm",
+        "countryName": "ZrFgERcg",
+        "Price": 379,
+        "AvailabilityDate": "2023-12-29"
+    },
+    {
+        "HotelName": " Royal Kona Resort",
+        "Rating": 4.5,
+        "Reviews": 9018,
+        "AirLineName": "MVefogzz",
+        "countryName": "UkCwXgJE",
+        "Price": 288,
+        "AvailabilityDate": "2024-04-01"
+    },
+    {
+        "HotelName": " Royal Kona Hotel",
+        "Rating": 4.5,
+        "Reviews": 1743,
+        "AirLineName": "PmeUrSMy",
+        "countryName": "nlbIOYwp",
+        "Price": 253,
+        "AvailabilityDate": "2023-12-28"
+    },
+    {
+        "HotelName": " Halekulani Resort",
+        "Rating": 4.7,
+        "Reviews": 7893,
+        "AirLineName": "SfpsCDUq",
+        "countryName": "yLoUIJYN",
+        "Price": 165,
+        "AvailabilityDate": "2024-02-01"
+    },
+    {
+        "HotelName": " Halekulani Hotel",
+        "Rating": 4.7,
+        "Reviews": 8923,
+        "AirLineName": "HSEFrInu",
+        "countryName": "wbjmDCor",
+        "Price": 348,
+        "AvailabilityDate": "2024-09-27"
+    },
+    {
+        "HotelName": " Hilton Garden Inn Waikiki Beach",
+        "Rating": 4.5,
+        "Reviews": 6278,
+        "AirLineName": "ruUOucyF",
+        "countryName": "RYDorjpQ",
+        "Price": 232,
+        "AvailabilityDate": "2024-08-12"
+    },
+    {
+        "HotelName": " Hilton Garden Inn Beach",
+        "Rating": 4.7,
+        "Reviews": 3521,
+        "AirLineName": "jeoPzYLf",
+        "countryName": "GaMCVCHo",
+        "Price": 287,
+        "AvailabilityDate": "2024-02-09"
+    },
+    {
+        "HotelName": " Embassy Suites by Hilton Waikiki Beach Walk",
+        "Rating": 4.5,
+        "Reviews": 1720,
+        "AirLineName": "lENxsaFi",
+        "countryName": "TMIzYZxq",
+        "Price": 205,
+        "AvailabilityDate": "2024-05-05"
+    },
+    {
+        "HotelName": " Hilton Waikiki Beach Walk",
+        "Rating": 4.7,
+        "Reviews": 185,
+        "AirLineName": "GCarRktn",
+        "countryName": "ssLzSxPS",
+        "Price": 410,
+        "AvailabilityDate": "2023-10-26"
+    },
+    {
+        "HotelName": " Grand Hyatt Kauai Resort & Spa",
+        "Rating": 4.7,
+        "Reviews": 5133,
+        "AirLineName": "KuorXoMz",
+        "countryName": "nJgWkyBr",
+        "Price": 459,
+        "AvailabilityDate": "2024-02-23"
+    },
+    {
+        "HotelName": " Grand Hyatt Kauai Hotel",
+        "Rating": 4.5,
+        "Reviews": 3175,
+        "AirLineName": "NmrUiYOL",
+        "countryName": "yQXxIsqP",
+        "Price": 352,
+        "AvailabilityDate": "2024-04-02"
+    },
+    {
+        "HotelName": " Hilton Hawaiian Village Waikiki Beach Resort",
+        "Rating": 4.5,
+        "Reviews": 15,
+        "AirLineName": "jeWKlruI",
+        "countryName": "gjDXwAQQ",
+        "Price": 366,
+        "AvailabilityDate": "2023-10-31"
+    },
+    {
+        "HotelName": " Hilton Hawaiian Beach Resort",
+        "Rating": 4.7,
+        "Reviews": 1507,
+        "AirLineName": "kgYCcBmc",
+        "countryName": "IijXmzoc",
+        "Price": 95,
+        "AvailabilityDate": "2024-07-30"
+    },
+    {
+        "HotelName": " Ka'anapali Beach Resort",
+        "Rating": 4.5,
+        "Reviews": 5047,
+        "AirLineName": "mOJPPNQF",
+        "countryName": "ehyGldNB",
+        "Price": 312,
+        "AvailabilityDate": "2024-10-02"
+    },
+    {
+        "HotelName": " OUTRIGGER Ka'anapali Resort",
+        "Rating": 4.0,
+        "Reviews": 3085,
+        "AirLineName": "tetUUshX",
+        "countryName": "QiEajNrB",
+        "Price": 374,
+        "AvailabilityDate": "2023-10-26"
+    },
+    {
+        "HotelName": " Queen Kapiolani Hotel",
+        "Rating": 4.0,
+        "Reviews": 59,
+        "AirLineName": "sDwbYBdw",
+        "countryName": "mOwiUTds",
+        "Price": 307,
+        "AvailabilityDate": "2024-01-26"
+    },
+    {
+        "HotelName": " Queen Kapiolani Resort",
+        "Rating": 4.0,
+        "Reviews": 6733,
+        "AirLineName": "HmMjuLLf",
+        "countryName": "jYgmmKcT",
+        "Price": 231,
+        "AvailabilityDate": "2023-10-27"
+    },
+    {
+        "HotelName": " Sheraton Waikiki",
+        "Rating": 3.5,
+        "Reviews": 1372,
+        "AirLineName": "laeFhJWP",
+        "countryName": "qUNMinsE",
+        "Price": 195,
+        "AvailabilityDate": "2024-04-07"
+    },
+    {
+        "HotelName": " Sheraton Waikiki Beach",
+        "Rating": 4.0,
+        "Reviews": 5769,
+        "AirLineName": "EVA Air",
+        "countryName": "mPaaMqHF",
+        "Price": 309,
+        "AvailabilityDate": "2023-11-12"
+    },
+    {
+        "HotelName": "Royaute Luxury",
+        "Rating": 4.9,
+        "Reviews": 2500,
+        "AirLineName": "Adria Airways [no longer operating]",
+        "countryName": "bmkYNuxO",
+        "Price": 257,
+        "AvailabilityDate": "2024-06-18"
+    },
+    {
+        "HotelName": "Royaute Luxury",
+        "Rating": 4.9,
+        "Reviews": 2500,
+        "AirLineName": "Advanced Air",
+        "countryName": "IpCCEocw",
+        "Price": 151,
+        "AvailabilityDate": "2024-02-23"
+    },
+    {
+        "HotelName": "Royaute Luxury",
+        "Rating": 4.9,
+        "Reviews": 2500,
+        "AirLineName": "AEGEAN",
+        "countryName": "ccZDflEK",
+        "Price": 103,
+        "AvailabilityDate": "2024-06-06"
+    },
+    {
+        "HotelName": "Royaute Luxury",
+        "Rating": 4.9,
+        "Reviews": 2500,
+        "AirLineName": "Aer Lingus",
+        "countryName": "gnRHrFez",
+        "Price": 222,
+        "AvailabilityDate": "2024-03-26"
+    },
+    {
+        "HotelName": "Royaute Luxury",
+        "Rating": 4.0,
+        "Reviews": 2500,
+        "AirLineName": "Aero Mongolia",
+        "countryName": "ztjWvEEK",
+        "Price": 403,
+        "AvailabilityDate": "2023-10-05"
+    },
+    {
+        "HotelName": "Royaute Luxury",
+        "Rating": 4.0,
+        "Reviews": 2500,
+        "AirLineName": "Aeroflot",
+        "countryName": "mvtZpGqM",
+        "Price": 470,
+        "AvailabilityDate": "2024-03-17"
+    },
+    {
+        "HotelName": "Royaute Luxury",
+        "Rating": 4.0,
+        "Reviews": 2500,
+        "AirLineName": "Aerogaviota",
+        "countryName": "iZESwetf",
+        "Price": 179,
+        "AvailabilityDate": "2023-12-09"
+    },
+    {
+        "HotelName": "Royaute Luxury",
+        "Rating": 4.0,
+        "Reviews": 2500,
+        "AirLineName": "Aerolinea de Antioquia",
+        "countryName": "WRoRDDzd",
+        "Price": 267,
+        "AvailabilityDate": "2024-09-19"
+    },
+    {
+        "HotelName": "Royaute Luxury",
+        "Rating": 4.0,
+        "Reviews": 200,
+        "AirLineName": "Aerolineas Argentinas",
+        "countryName": "kkYOBTqh",
+        "Price": 384,
+        "AvailabilityDate": "2024-09-17"
+    },
+    {
+        "HotelName": "Royaute Luxury",
+        "Rating": 4.0,
+        "Reviews": 200,
+        "AirLineName": "Aeromar",
+        "countryName": "hQcBLAWj",
+        "Price": 441,
+        "AvailabilityDate": "2024-03-13"
+    },
+    {
+        "HotelName": "Royaute Luxury",
+        "Rating": 4.0,
+        "Reviews": 200,
+        "AirLineName": "ebYcbdXx",
+        "countryName": "SiestaKeyBeach",
+        "Price": 306,
+        "AvailabilityDate": "2024-03-10"
+    },
+    {
+        "HotelName": "Royaute Luxury",
+        "Rating": 4.0,
+        "Reviews": 200,
+        "AirLineName": "trRViiFP",
+        "countryName": "NorthMyrtleBeach",
+        "Price": 291,
+        "AvailabilityDate": "2023-12-29"
+    },
+    {
+        "HotelName": "Royaute Luxury",
+        "Rating": 4.2,
+        "Reviews": 200,
+        "AirLineName": "bRboLrZE",
+        "countryName": "NewYork",
+        "Price": 287,
+        "AvailabilityDate": "2024-04-24"
+    },
+    {
+        "HotelName": "Royaute Luxury",
+        "Rating": 4.2,
+        "Reviews": 200,
+        "AirLineName": "KikARHbh",
+        "countryName": "Miami",
+        "Price": 217,
+        "AvailabilityDate": "2023-11-06"
+    },
+    {
+        "HotelName": "Royaute Luxury",
+        "Rating": 4.2,
+        "Reviews": 200,
+        "AirLineName": "LJKbBhpj",
+        "countryName": "Oahu",
+        "Price": 115,
+        "AvailabilityDate": "2024-07-20"
+    },
+    {
+        "HotelName": "Royaute Luxury",
+        "Rating": 4.2,
+        "Reviews": 200,
+        "AirLineName": "kSMkmrjc",
+        "countryName": "OceanCity",
+        "Price": 220,
+        "AvailabilityDate": "2024-06-22"
+    },
+    {
+        "HotelName": "Royaute Luxury",
+        "Rating": 4.2,
+        "Reviews": 200,
+        "AirLineName": "jgWcWxNm",
+        "countryName": "Paris",
+        "Price": 292,
+        "AvailabilityDate": "2024-01-05"
+    },
+    {
+        "HotelName": "Royaute Luxury",
+        "Rating": 4.2,
+        "Reviews": 200,
+        "AirLineName": "dhqfBejQ",
+        "countryName": "LasVegas",
+        "Price": 247,
+        "AvailabilityDate": "2024-01-24"
+    },
+    {
+        "HotelName": "Luxus Grand Hotel",
+        "Rating": 4.2,
+        "Reviews": 200,
+        "AirLineName": "GSasYaSs",
+        "countryName": "Florida",
+        "Price": 308,
+        "AvailabilityDate": "2024-04-02"
+    },
+    {
+        "HotelName": "Luxus Grand Hotel",
+        "Rating": 4.2,
+        "Reviews": 800,
+        "AirLineName": "hlHYQiRF",
+        "countryName": "California",
+        "Price": 230,
+        "AvailabilityDate": "2023-12-23"
+    },
+    {
+        "HotelName": "Luxus Grand Hotel",
+        "Rating": 3.9,
+        "Reviews": 800,
+        "AirLineName": "IVKhERpz",
+        "countryName": "SouthCarolina",
+        "Price": 52,
+        "AvailabilityDate": "2024-04-12"
+    },
+    {
+        "HotelName": "Luxus Grand Hotel",
+        "Rating": 4.5,
+        "Reviews": 800,
+        "AirLineName": "dafAzeJL",
+        "countryName": "Hawaii",
+        "Price": 303,
+        "AvailabilityDate": "2024-08-13"
+    },
+    {
+        "HotelName": "Luxus Grand Hotel",
+        "Rating": 4.5,
+        "Reviews": 800,
+        "AirLineName": "jkesCJyH",
+        "countryName": "Colorado",
+        "Price": 484,
+        "AvailabilityDate": "2024-05-19"
+    },
+    {
+        "HotelName": "Luxus Grand Hotel",
+        "Rating": 4.5,
+        "Reviews": 800,
+        "AirLineName": "WbeRyLCE",
+        "countryName": "Michigan",
+        "Price": 167,
+        "AvailabilityDate": "2023-11-18"
+    },
+    {
+        "HotelName": "Luxus Grand Hotel",
+        "Rating": 4.5,
+        "Reviews": 800,
+        "AirLineName": "GCPrMUxj",
+        "countryName": "Texas",
+        "Price": 224,
+        "AvailabilityDate": "2024-04-02"
+    },
+    {
+        "HotelName": "Luxus Grand Hotel",
+        "Rating": 4.5,
+        "Reviews": 800,
+        "AirLineName": "eRfkFWJw",
+        "countryName": "Georgia",
+        "Price": 424,
+        "AvailabilityDate": "2023-10-16"
+    },
+    {
+        "HotelName": "Luxus Grand Hotel",
+        "Rating": 4.5,
+        "Reviews": 800,
+        "AirLineName": "LGlLlEbr",
+        "countryName": "Tennessee",
+        "Price": 133,
+        "AvailabilityDate": "2024-03-23"
+    },
+    {
+        "HotelName": "Luxus Grand Hotel",
+        "Rating": 4.5,
+        "Reviews": 800,
+        "AirLineName": "RELYpxgo",
+        "countryName": "NewYorks",
+        "Price": 223,
+        "AvailabilityDate": "2024-01-15"
+    },
+    {
+        "HotelName": "Luxus Grand Hotel",
+        "Rating": 4.5,
+        "Reviews": 800,
+        "AirLineName": "Delta Air Lines",
+        "countryName": "Maine",
+        "Price": 106,
+        "AvailabilityDate": "2024-02-12"
+    },
+    {
+        "HotelName": "Luxus Grand Hotel",
+        "Rating": 4.5,
+        "Reviews": 800,
+        "AirLineName": "JXVGTPiR",
+        "countryName": "Oregon",
+        "Price": 498,
+        "AvailabilityDate": "2024-04-06"
+    },
+    {
+        "HotelName": "Luxus Grand Hotel",
+        "Rating": 4.5,
+        "Reviews": 800,
+        "AirLineName": "tpqHrLcr",
+        "countryName": "Wisconsin",
+        "Price": 260,
+        "AvailabilityDate": "2024-03-28"
+    },
+    {
+        "HotelName": "Luxus Grand Hotel",
+        "Rating": 4.5,
+        "Reviews": 3200,
+        "AirLineName": "eNvGpckg",
+        "countryName": "Hocking",
+        "Price": 149,
+        "AvailabilityDate": "2024-02-09"
+    },
+    {
+        "HotelName": "Luxus Grand Hotel",
+        "Rating": 4.5,
+        "Reviews": 3200,
+        "AirLineName": "oXUBOuEC",
+        "countryName": "PigeonForgeCabins",
+        "Price": 354,
+        "AvailabilityDate": "2024-03-24"
+    },
+    {
+        "HotelName": "Luxus Grand Hotel",
+        "Rating": 4.5,
+        "Reviews": 3200,
+        "AirLineName": "TgyQMUni",
+        "countryName": "OuterBanks",
+        "Price": 457,
+        "AvailabilityDate": "2024-04-08"
+    },
+    {
+        "HotelName": "Luxus Grand Hotel",
+        "Rating": 4.5,
+        "Reviews": 3200,
+        "AirLineName": "lRfiSfjp",
+        "countryName": "HiltonHead",
+        "Price": 370,
+        "AvailabilityDate": "2024-01-15"
+    },
+    {
+        "HotelName": "Luxus Grand Hotel",
+        "Rating": 4.5,
+        "Reviews": 3200,
+        "AirLineName": "OLSLJLWI",
+        "countryName": "PanamaCity",
+        "Price": 484,
+        "AvailabilityDate": "2024-03-22"
+    },
+    {
+        "HotelName": "Luxus Grand Hotel",
+        "Rating": 4.5,
+        "Reviews": 3200,
+        "AirLineName": "mGPALLcg",
+        "countryName": "BrokenBowCabins",
+        "Price": 452,
+        "AvailabilityDate": "2024-01-06"
+    },
+    {
+        "HotelName": "Luxus Grand Hotel",
+        "Rating": 3.9,
+        "Reviews": 3200,
+        "AirLineName": "HIjYypDN",
+        "countryName": "TybeeIsland",
+        "Price": 475,
+        "AvailabilityDate": "2024-04-21"
+    },
+    {
+        "HotelName": "Taj Palace Hotel",
+        "Rating": 4.7,
+        "Reviews": 3200,
+        "AirLineName": "BcvbTBEJ",
+        "countryName": "RuidosoCabins",
+        "Price": 248,
+        "AvailabilityDate": "2024-08-11"
+    },
+    {
+        "HotelName": "Taj Palace Hotel",
+        "Rating": 4.7,
+        "Reviews": 3200,
+        "AirLineName": "vjkAQlGg",
+        "countryName": "MyrtleBeach",
+        "Price": 394,
+        "AvailabilityDate": "2023-12-11"
+    },
+    {
+        "HotelName": "Taj Palace Hotel",
+        "Rating": 4.7,
+        "Reviews": 3200,
+        "AirLineName": "UpLdrknb",
+        "countryName": "VirginiaBeachVacation",
+        "Price": 191,
+        "AvailabilityDate": "2024-06-07"
+    },
+    {
+        "HotelName": "Taj Palace Hotel",
+        "Rating": 4.7,
+        "Reviews": 3200,
+        "AirLineName": "XNBZeSYl",
+        "countryName": "Destin",
+        "Price": 475,
+        "AvailabilityDate": "2023-11-20"
+    },
+    {
+        "HotelName": "Taj Palace Hotel",
+        "Rating": 4.7,
+        "Reviews": 3200,
+        "AirLineName": "HWJWnayx",
+        "countryName": "Kauai",
+        "Price": 448,
+        "AvailabilityDate": "2024-05-22"
+    },
+    {
+        "HotelName": "Taj Palace Hotel",
+        "Rating": 4.7,
+        "Reviews": 1200,
+        "AirLineName": "FnhRdbRM",
+        "countryName": "AnnaMariaIsland",
+        "Price": 456,
+        "AvailabilityDate": "2024-09-07"
+    },
+    {
+        "HotelName": "Taj Palace Hotel",
+        "Rating": 4.7,
+        "Reviews": 1200,
+        "AirLineName": "Qantas Airways",
+        "countryName": "Orlando",
+        "Price": 327,
+        "AvailabilityDate": "2024-07-07"
+    },
+    {
+        "HotelName": "Taj Palace Hotel",
+        "Rating": 4.7,
+        "Reviews": 1200,
+        "AirLineName": "iydIBiTf",
+        "countryName": "SanDiego",
+        "Price": 84,
+        "AvailabilityDate": "2024-01-13"
+    },
+    {
+        "HotelName": "Taj Palace Hotel",
+        "Rating": 4.7,
+        "Reviews": 1200,
+        "AirLineName": "gBCBWtMT",
+        "countryName": "FloridaKeys",
+        "Price": 494,
+        "AvailabilityDate": "2024-03-11"
+    },
+    {
+        "HotelName": "Taj Palace Hotel",
+        "Rating": 4.7,
+        "Reviews": 1200,
+        "AirLineName": "VuWKWrDc",
+        "countryName": "GulfShores",
+        "Price": 253,
+        "AvailabilityDate": "2023-11-01"
+    },
+    {
+        "HotelName": "Taj Palace Hotel",
+        "Rating": 4.7,
+        "Reviews": 1200,
+        "AirLineName": "DWqospiE",
+        "countryName": "BlueRidge",
+        "Price": 228,
+        "AvailabilityDate": "2024-03-05"
+    },
+    {
+        "HotelName": "Taj Palace Hotel",
+        "Rating": 4.7,
+        "Reviews": 1200,
+        "AirLineName": "ChyxnBIN",
+        "countryName": "CabinsinWisconsin",
+        "Price": 51,
+        "AvailabilityDate": "2024-07-23"
+    },
+    {
+        "HotelName": "Taj Palace Hotel",
+        "Rating": 4.7,
+        "Reviews": 1200,
+        "AirLineName": "qsQSwWbh",
+        "countryName": "CondosinAustin",
+        "Price": 322,
+        "AvailabilityDate": "2024-05-15"
+    },
+    {
+        "HotelName": "Taj Palace Hotel",
+        "Rating": 3.9,
+        "Reviews": 1200,
+        "AirLineName": "AQivQQVP",
+        "countryName": "CondosinDaytona",
+        "Price": 355,
+        "AvailabilityDate": "2024-04-26"
+    },
+    {
+        "HotelName": "Pearl-Continental Hotel",
+        "Rating": 3.9,
+        "Reviews": 1200,
+        "AirLineName": "yVSzwCvI",
+        "countryName": "CondosinFortWaltonBeach",
+        "Price": 157,
+        "AvailabilityDate": "2024-05-05"
+    },
+    {
+        "HotelName": "Pearl-Continental Hotel",
+        "Rating": 3.9,
+        "Reviews": 1200,
+        "AirLineName": "Emirates",
+        "countryName": "CondosinLosAngeles",
+        "Price": 407,
+        "AvailabilityDate": "2024-07-17"
+    },
+    {
+        "HotelName": "Pearl-Continental Hotel",
+        "Rating": 4.9,
+        "Reviews": 1200,
+        "AirLineName": "aAHosZvh",
+        "countryName": "OrangeBeachCondos",
+        "Price": 69,
+        "AvailabilityDate": "2023-10-25"
+    },
+    {
+        "HotelName": "Pearl-Continental Hotel",
+        "Rating": 4.9,
+        "Reviews": 1200,
+        "AirLineName": "ioEAVzpW",
+        "countryName": "CondosinPortAransas",
+        "Price": 402,
+        "AvailabilityDate": "2023-12-18"
+    },
+    {
+        "HotelName": "Pearl-Continental Hotel",
+        "Rating": 4.9,
+        "Reviews": 1200,
+        "AirLineName": "hJIaExBC",
+        "countryName": "CondosinSouthPadreIsland",
+        "Price": 219,
+        "AvailabilityDate": "2024-03-13"
+    },
+    {
+        "HotelName": "Pearl-Continental Hotel",
+        "Rating": 4.9,
+        "Reviews": 3000,
+        "AirLineName": "iuuIOReC",
+        "countryName": "BransonRentals",
+        "Price": 144,
+        "AvailabilityDate": "2024-01-29"
+    },
+    {
+        "HotelName": "Pearl-Continental Hotel",
+        "Rating": 4.9,
+        "Reviews": 3000,
+        "AirLineName": "uaVMnAhL",
+        "countryName": "CapeCod",
+        "Price": 57,
+        "AvailabilityDate": "2023-10-07"
+    },
+    {
+        "HotelName": "Pearl-Continental Hotel",
+        "Rating": 4.9,
+        "Reviews": 3000,
+        "AirLineName": "upYcVHch",
+        "countryName": "PalmSprings",
+        "Price": 138,
+        "AvailabilityDate": "2024-05-23"
+    },
+    {
+        "HotelName": "Pearl-Continental Hotel",
+        "Rating": 4.9,
+        "Reviews": 3000,
+        "AirLineName": "gdCjdgnA",
+        "countryName": "PensacolaBeach",
+        "Price": 395,
+        "AvailabilityDate": "2023-10-16"
+    },
+    {
+        "HotelName": "Pearl-Continental Hotel",
+        "Rating": 4.9,
+        "Reviews": 3000,
+        "AirLineName": "WRnMrqDm",
+        "countryName": "SanibelIsland",
+        "Price": 188,
+        "AvailabilityDate": "2024-08-16"
+    },
+    {
+        "HotelName": "Pearl-Continental Hotel",
+        "Rating": 4.9,
+        "Reviews": 3000,
+        "AirLineName": "zWpWEoRp",
+        "countryName": "MiamiBeach",
+        "Price": 326,
+        "AvailabilityDate": "2024-04-30"
+    },
+    {
+        "HotelName": "Pearl-Continental Hotel",
+        "Rating": 4.9,
+        "Reviews": 3000,
+        "AirLineName": "jCfhQNSi",
+        "countryName": "NewOrleans",
+        "Price": 492,
+        "AvailabilityDate": "2024-04-07"
+    },
+    {
+        "HotelName": "Pearl-Continental Hotel",
+        "Rating": 4.9,
+        "Reviews": 3000,
+        "AirLineName": "QltOoYyn",
+        "countryName": "PuertoRico",
+        "Price": 104,
+        "AvailabilityDate": "2024-09-13"
+    },
+    {
+        "HotelName": "Pearl-Continental Hotel",
+        "Rating": 4.9,
+        "Reviews": 3000,
+        "AirLineName": "MhFzeLPS",
+        "countryName": "Rome",
+        "Price": 254,
+        "AvailabilityDate": "2024-06-05"
+    },
+    {
+        "HotelName": "Pearl-Continental Hotel",
+        "Rating": 4.9,
+        "Reviews": 3000,
+        "AirLineName": "MFZxKqJp",
+        "countryName": "SanFrancisco",
+        "Price": 149,
+        "AvailabilityDate": "2024-05-09"
+    },
+    {
+        "HotelName": "Pearl-Continental Hotel",
+        "Rating": 4.9,
+        "Reviews": 2500,
+        "AirLineName": "ZtHMmAuz",
+        "countryName": "Jamaica",
+        "Price": 446,
+        "AvailabilityDate": "2023-10-17"
+    }
+]
