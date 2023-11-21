@@ -1,8 +1,8 @@
 [
  {
-   "User ID": 19,
-   "Product ID": 1,
-   "Product Name": "Dress",
+   "UserID": 19,
+   "ProductID": 1,
+   "ProductName": "Dress",
    "Brand": "Adidas",
    "Category": "Men's Fashion",
    "Price": 40,
@@ -11,9 +11,9 @@
    "Size": "XL"
  },
  {
-   "User ID": 97,
-   "Product ID": 2,
-   "Product Name": "Shoes",
+   "UserID": 97,
+   "ProductID": 2,
+   "ProductName": "Shoes",
    "Brand": "H&M",
    "Category": "Women's Fashion",
    "Price": 82,
@@ -22,9 +22,9 @@
    "Size": "L"
  },
  {
-   "User ID": 25,
-   "Product ID": 3,
-   "Product Name": "Dress",
+   "UserID": 25,
+   "ProductID": 3,
+   "ProductName": "Dress",
    "Brand": "Adidas",
    "Category": "Women's Fashion",
    "Price": 44,
@@ -33,9 +33,9 @@
    "Size": "XL"
  },
  {
-   "User ID": 25,
-   "Product ID": 3,
-   "Product Name": "Dress",
+   "UserID": 25,
+   "ProductID": 3,
+   "ProductName": "Dress",
    "Brand": "Adidas",
    "Category": "Women's Fashion",
    "Price": 44,
@@ -44,9 +44,9 @@
    "Size": "XL"
  },
  {
-   "User ID": 25,
-   "Product ID": 3,
-   "Product Name": "Dress",
+   "UserID": 25,
+   "ProductID": 3,
+   "ProductName": "Dress",
    "Brand": "Adidas",
    "Category": "Women's Fashion",
    "Price": 44,
@@ -55,9 +55,9 @@
    "Size": "XL"
  },
  {
-   "User ID": 57,
-   "Product ID": 4,
-   "Product Name": "Shoes",
+   "UserID": 57,
+   "ProductID": 4,
+   "ProductName": "Shoes",
    "Brand": "Zara",
    "Category": "Men's Fashion",
    "Price": 23,
@@ -66,9 +66,9 @@
    "Size": "S"
  },
  {
-   "User ID": 79,
-   "Product ID": 5,
-   "Product Name": "T-shirt",
+   "UserID": 79,
+   "ProductID": 5,
+   "ProductName": "T-shirt",
    "Brand": "Adidas",
    "Category": "Men's Fashion",
    "Price": 79,
@@ -77,9 +77,9 @@
    "Size": "M"
  },
  {
-   "User ID": 98,
-   "Product ID": 6,
-   "Product Name": "Dress",
+   "UserID": 98,
+   "ProductID": 6,
+   "ProductName": "Dress",
    "Brand": "Adidas",
    "Category": "Men's Fashion",
    "Price": 47,
@@ -88,9 +88,9 @@
    "Size": "L"
  },
  {
-   "User ID": 16,
-   "Product ID": 7,
-   "Product Name": "Jeans",
+   "UserID": 16,
+   "ProductID": 7,
+   "ProductName": "Jeans",
    "Brand": "Gucci",
    "Category": "Men's Fashion",
    "Price": 37,
@@ -99,9 +99,9 @@
    "Size": "XL"
  },
  {
-   "User ID": 63,
-   "Product ID": 8,
-   "Product Name": "Sweater",
+   "UserID": 63,
+   "ProductID": 8,
+   "ProductName": "Sweater",
    "Brand": "Zara",
    "Category": "Kids' Fashion",
    "Price": 64,
@@ -110,9 +110,9 @@
    "Size": "XL"
  },
  {
-   "User ID": 96,
-   "Product ID": 9,
-   "Product Name": "Sweater",
+   "UserID": 96,
+   "ProductID": 9,
+   "ProductName": "Sweater",
    "Brand": "H&M",
    "Category": "Men's Fashion",
    "Price": 53,
@@ -121,9 +121,9 @@
    "Size": "XL"
  },
  {
-   "User ID": 36,
-   "Product ID": 10,
-   "Product Name": "T-shirt",
+   "UserID": 36,
+   "ProductID": 10,
+   "ProductName": "T-shirt",
    "Brand": "Zara",
    "Category": "Kids' Fashion",
    "Price": 55,
@@ -132,9 +132,9 @@
    "Size": "XL"
  },
  {
-   "User ID": 69,
-   "Product ID": 11,
-   "Product Name": "T-shirt",
+   "UserID": 69,
+   "ProductID": 11,
+   "ProductName": "T-shirt",
    "Brand": "Adidas",
    "Category": "Men's Fashion",
    "Price": 51,
@@ -143,9 +143,9 @@
    "Size": "S"
  },
  {
-   "User ID": 87,
-   "Product ID": 12,
-   "Product Name": "Sweater",
+   "UserID": 87,
+   "ProductID": 12,
+   "ProductName": "Sweater",
    "Brand": "Gucci",
    "Category": "Kids' Fashion",
    "Price": 91,
@@ -154,9 +154,9 @@
    "Size": "M"
  },
  {
-   "User ID": 9,
-   "Product ID": 13,
-   "Product Name": "Jeans",
+   "UserID": 9,
+   "ProductID": 13,
+   "ProductName": "Jeans",
    "Brand": "Nike",
    "Category": "Kids' Fashion",
    "Price": 35,
@@ -165,9 +165,9 @@
    "Size": "M"
  },
  {
-   "User ID": 50,
-   "Product ID": 14,
-   "Product Name": "Dress",
+   "UserID": 50,
+   "ProductID": 14,
+   "ProductName": "Dress",
    "Brand": "Zara",
    "Category": "Women's Fashion",
    "Price": 34,
@@ -176,9 +176,9 @@
    "Size": "L"
  },
  {
-   "User ID": 31,
-   "Product ID": 15,
-   "Product Name": "Shoes",
+   "UserID": 31,
+   "ProductID": 15,
+   "ProductName": "Shoes",
    "Brand": "Zara",
    "Category": "Men's Fashion",
    "Price": 54,
@@ -187,9 +187,9 @@
    "Size": "M"
  },
  {
-   "User ID": 37,
-   "Product ID": 16,
-   "Product Name": "Dress",
+   "UserID": 37,
+   "ProductID": 16,
+   "ProductName": "Dress",
    "Brand": "Adidas",
    "Category": "Women's Fashion",
    "Price": 27,
@@ -198,9 +198,9 @@
    "Size": "S"
  },
  {
-   "User ID": 41,
-   "Product ID": 17,
-   "Product Name": "Dress",
+   "UserID": 41,
+   "ProductID": 17,
+   "ProductName": "Dress",
    "Brand": "Gucci",
    "Category": "Women's Fashion",
    "Price": 75,
@@ -209,9 +209,9 @@
    "Size": "XL"
  },
  {
-   "User ID": 15,
-   "Product ID": 18,
-   "Product Name": "Jeans",
+   "UserID": 15,
+   "ProductID": 18,
+   "ProductName": "Jeans",
    "Brand": "Gucci",
    "Category": "Women's Fashion",
    "Price": 73,
@@ -220,9 +220,9 @@
    "Size": "XL"
  },
  {
-   "User ID": 84,
-   "Product ID": 19,
-   "Product Name": "Shoes",
+   "UserID": 84,
+   "ProductID": 19,
+   "ProductName": "Shoes",
    "Brand": "Gucci",
    "Category": "Women's Fashion",
    "Price": 54,
@@ -231,9 +231,9 @@
    "Size": "M"
  },
  {
-   "User ID": 56,
-   "Product ID": 20,
-   "Product Name": "Dress",
+   "UserID": 56,
+   "ProductID": 20,
+   "ProductName": "Dress",
    "Brand": "Gucci",
    "Category": "Men's Fashion",
    "Price": 53,
@@ -242,9 +242,9 @@
    "Size": "L"
  },
  {
-   "User ID": 87,
-   "Product ID": 21,
-   "Product Name": "Jeans",
+   "UserID": 87,
+   "ProductID": 21,
+   "ProductName": "Jeans",
    "Brand": "H&M",
    "Category": "Men's Fashion",
    "Price": 56,
@@ -253,9 +253,9 @@
    "Size": "S"
  },
  {
-   "User ID": 56,
-   "Product ID": 22,
-   "Product Name": "Jeans",
+   "UserID": 56,
+   "ProductID": 22,
+   "ProductName": "Jeans",
    "Brand": "Gucci",
    "Category": "Women's Fashion",
    "Price": 89,
@@ -264,9 +264,9 @@
    "Size": "L"
  },
  {
-   "User ID": 60,
-   "Product ID": 23,
-   "Product Name": "Jeans",
+   "UserID": 60,
+   "ProductID": 23,
+   "ProductName": "Jeans",
    "Brand": "Zara",
    "Category": "Kids' Fashion",
    "Price": 91,
@@ -275,9 +275,9 @@
    "Size": "M"
  },
  {
-   "User ID": 64,
-   "Product ID": 24,
-   "Product Name": "Jeans",
+   "UserID": 64,
+   "ProductID": 24,
+   "ProductName": "Jeans",
    "Brand": "Zara",
    "Category": "Women's Fashion",
    "Price": 15,
@@ -286,9 +286,9 @@
    "Size": "XL"
  },
  {
-   "User ID": 65,
-   "Product ID": 25,
-   "Product Name": "Sweater",
+   "UserID": 65,
+   "ProductID": 25,
+   "ProductName": "Sweater",
    "Brand": "H&M",
    "Category": "Kids' Fashion",
    "Price": 38,
@@ -297,9 +297,9 @@
    "Size": "S"
  },
  {
-   "User ID": 26,
-   "Product ID": 26,
-   "Product Name": "Dress",
+   "UserID": 26,
+   "ProductID": 26,
+   "ProductName": "Dress",
    "Brand": "Gucci",
    "Category": "Women's Fashion",
    "Price": 21,
@@ -308,9 +308,9 @@
    "Size": "S"
  },
  {
-   "User ID": 82,
-   "Product ID": 27,
-   "Product Name": "T-shirt",
+   "UserID": 82,
+   "ProductID": 27,
+   "ProductName": "T-shirt",
    "Brand": "Adidas",
    "Category": "Kids' Fashion",
    "Price": 72,
@@ -319,9 +319,9 @@
    "Size": "L"
  },
  {
-   "User ID": 87,
-   "Product ID": 28,
-   "Product Name": "Shoes",
+   "UserID": 87,
+   "ProductID": 28,
+   "ProductName": "Shoes",
    "Brand": "Zara",
    "Category": "Women's Fashion",
    "Price": 32,
@@ -330,9 +330,9 @@
    "Size": "L"
  },
  {
-   "User ID": 98,
-   "Product ID": 29,
-   "Product Name": "Shoes",
+   "UserID": 98,
+   "ProductID": 29,
+   "ProductName": "Shoes",
    "Brand": "Gucci",
    "Category": "Women's Fashion",
    "Price": 85,
@@ -341,9 +341,9 @@
    "Size": "M"
  },
  {
-   "User ID": 20,
-   "Product ID": 30,
-   "Product Name": "Sweater",
+   "UserID": 20,
+   "ProductID": 30,
+   "ProductName": "Sweater",
    "Brand": "Nike",
    "Category": "Kids' Fashion",
    "Price": 99,
@@ -352,9 +352,9 @@
    "Size": "XL"
  },
  {
-   "User ID": 36,
-   "Product ID": 31,
-   "Product Name": "Jeans",
+   "UserID": 36,
+   "ProductID": 31,
+   "ProductName": "Jeans",
    "Brand": "H&M",
    "Category": "Kids' Fashion",
    "Price": 37,
@@ -363,9 +363,9 @@
    "Size": "S"
  },
  {
-   "User ID": 98,
-   "Product ID": 32,
-   "Product Name": "T-shirt",
+   "UserID": 98,
+   "ProductID": 32,
+   "ProductName": "T-shirt",
    "Brand": "Nike",
    "Category": "Kids' Fashion",
    "Price": 78,
@@ -374,9 +374,9 @@
    "Size": "XL"
  },
  {
-   "User ID": 69,
-   "Product ID": 33,
-   "Product Name": "Jeans",
+   "UserID": 69,
+   "ProductID": 33,
+   "ProductName": "Jeans",
    "Brand": "H&M",
    "Category": "Kids' Fashion",
    "Price": 89,
@@ -385,9 +385,9 @@
    "Size": "XL"
  },
  {
-   "User ID": 31,
-   "Product ID": 34,
-   "Product Name": "Jeans",
+   "UserID": 31,
+   "ProductID": 34,
+   "ProductName": "Jeans",
    "Brand": "H&M",
    "Category": "Men's Fashion",
    "Price": 80,
@@ -396,9 +396,9 @@
    "Size": "S"
  },
  {
-   "User ID": 48,
-   "Product ID": 35,
-   "Product Name": "Jeans",
+   "UserID": 48,
+   "ProductID": 35,
+   "ProductName": "Jeans",
    "Brand": "Zara",
    "Category": "Women's Fashion",
    "Price": 37,
@@ -407,9 +407,9 @@
    "Size": "L"
  },
  {
-   "User ID": 18,
-   "Product ID": 36,
-   "Product Name": "Dress",
+   "UserID": 18,
+   "ProductID": 36,
+   "ProductName": "Dress",
    "Brand": "H&M",
    "Category": "Kids' Fashion",
    "Price": 74,
@@ -418,9 +418,9 @@
    "Size": "S"
  },
  {
-   "User ID": 27,
-   "Product ID": 37,
-   "Product Name": "Sweater",
+   "UserID": 27,
+   "ProductID": 37,
+   "ProductName": "Sweater",
    "Brand": "Zara",
    "Category": "Kids' Fashion",
    "Price": 48,
@@ -429,9 +429,9 @@
    "Size": "S"
  },
  {
-   "User ID": 60,
-   "Product ID": 38,
-   "Product Name": "T-shirt",
+   "UserID": 60,
+   "ProductID": 38,
+   "ProductName": "T-shirt",
    "Brand": "Nike",
    "Category": "Kids' Fashion",
    "Price": 76,
@@ -440,9 +440,9 @@
    "Size": "S"
  },
  {
-   "User ID": 46,
-   "Product ID": 39,
-   "Product Name": "Jeans",
+   "UserID": 46,
+   "ProductID": 39,
+   "ProductName": "Jeans",
    "Brand": "Adidas",
    "Category": "Men's Fashion",
    "Price": 90,
@@ -451,9 +451,9 @@
    "Size": "M"
  },
  {
-   "User ID": 84,
-   "Product ID": 40,
-   "Product Name": "Dress",
+   "UserID": 84,
+   "ProductID": 40,
+   "ProductName": "Dress",
    "Brand": "Zara",
    "Category": "Women's Fashion",
    "Price": 46,
@@ -462,9 +462,9 @@
    "Size": "XL"
  },
  {
-   "User ID": 43,
-   "Product ID": 41,
-   "Product Name": "Jeans",
+   "UserID": 43,
+   "ProductID": 41,
+   "ProductName": "Jeans",
    "Brand": "Gucci",
    "Category": "Women's Fashion",
    "Price": 40,
@@ -473,9 +473,9 @@
    "Size": "L"
  },
  {
-   "User ID": 43,
-   "Product ID": 42,
-   "Product Name": "Shoes",
+   "UserID": 43,
+   "ProductID": 42,
+   "ProductName": "Shoes",
    "Brand": "Zara",
    "Category": "Kids' Fashion",
    "Price": 43,
@@ -484,9 +484,9 @@
    "Size": "S"
  },
  {
-   "User ID": 91,
-   "Product ID": 43,
-   "Product Name": "T-shirt",
+   "UserID": 91,
+   "ProductID": 43,
+   "ProductName": "T-shirt",
    "Brand": "Adidas",
    "Category": "Men's Fashion",
    "Price": 39,
@@ -495,9 +495,9 @@
    "Size": "M"
  },
  {
-   "User ID": 78,
-   "Product ID": 44,
-   "Product Name": "Jeans",
+   "UserID": 78,
+   "ProductID": 44,
+   "ProductName": "Jeans",
    "Brand": "Nike",
    "Category": "Kids' Fashion",
    "Price": 74,
@@ -506,9 +506,9 @@
    "Size": "M"
  },
  {
-   "User ID": 60,
-   "Product ID": 45,
-   "Product Name": "Jeans",
+   "UserID": 60,
+   "ProductID": 45,
+   "ProductName": "Jeans",
    "Brand": "Gucci",
    "Category": "Women's Fashion",
    "Price": 85,
@@ -517,9 +517,9 @@
    "Size": "L"
  },
  {
-   "User ID": 44,
-   "Product ID": 46,
-   "Product Name": "Dress",
+   "UserID": 44,
+   "ProductID": 46,
+   "ProductName": "Dress",
    "Brand": "Zara",
    "Category": "Men's Fashion",
    "Price": 38,
@@ -528,9 +528,9 @@
    "Size": "XL"
  },
  {
-   "User ID": 44,
-   "Product ID": 46,
-   "Product Name": "Dress",
+   "UserID": 44,
+   "ProductID": 46,
+   "ProductName": "Dress",
    "Brand": "Zara",
    "Category": "Men's Fashion",
    "Price": 838,
@@ -539,9 +539,9 @@
    "Size": "XL"
  },
  {
-   "User ID": 44,
-   "Product ID": 46,
-   "Product Name": "Dress",
+   "UserID": 44,
+   "ProductID": 46,
+   "ProductName": "Dress",
    "Brand": "Zara",
    "Category": "Men's Fashion",
    "Price": 388,
@@ -550,9 +550,9 @@
    "Size": "XL"
  },
  {
-   "User ID": 93,
-   "Product ID": 47,
-   "Product Name": "Jeans",
+   "UserID": 93,
+   "ProductID": 47,
+   "ProductName": "Jeans",
    "Brand": "Zara",
    "Category": "Men's Fashion",
    "Price": 62,
@@ -561,9 +561,9 @@
    "Size": "S"
  },
  {
-   "User ID": 74,
-   "Product ID": 48,
-   "Product Name": "T-shirt",
+   "UserID": 74,
+   "ProductID": 48,
+   "ProductName": "T-shirt",
    "Brand": "Gucci",
    "Category": "Kids' Fashion",
    "Price": 10,
@@ -572,9 +572,9 @@
    "Size": "M"
  },
  {
-   "User ID": 19,
-   "Product ID": 49,
-   "Product Name": "Sweater",
+   "UserID": 19,
+   "ProductID": 49,
+   "ProductName": "Sweater",
    "Brand": "Gucci",
    "Category": "Kids' Fashion",
    "Price": 52,
@@ -583,322 +583,509 @@
    "Size": "XL"
  },
  {
-  "User ID": 98,
-  "Product ID": 50,
-  "Product Name": "T-shirt",
-  "Brand": "H&M",
-  "Category": "Women's Fashion",
-  "Price": 38,
-  "Rating": "3.0832859328181086",
-  "Color": "Blue",
-  "Size": "L"
-},
-{
-  "User ID": 51,
-  "Product ID": 51,
-  "Product Name": "Jeans",
-  "Brand": "Adidas",
-  "Category": "Women's Fashion",
-  "Price": 67,
-  "Rating": "3.8429900228918754",
-  "Color": "Yellow",
-  "Size": "XL"
-},
-{
-  "User ID": 80,
-  "Product ID": 52,
-  "Product Name": "Dress",
-  "Brand": "Nike",
-  "Category": "Kids' Fashion",
-  "Price": 59,
-  "Rating": "3.964195137772806",
-  "Color": "Red",
-  "Size": "S"
-},
-{
-  "User ID": 39,
-  "Product ID": 53,
-  "Product Name": "T-shirt",
-  "Brand": "Nike",
-  "Category": "Men's Fashion",
-  "Price": 16,
-  "Rating": "1.2923199695786125",
-  "Color": "Red",
-  "Size": "M"
-},
-{
-  "User ID": 33,
-  "Product ID": 54,
-  "Product Name": "Shoes",
-  "Brand": "H&M",
-  "Category": "Men's Fashion",
-  "Price": 33,
-  "Rating": "2.450522629395141",
-  "Color": "Blue",
-  "Size": "S"
-},
-{
-  "User ID": 78,
-  "Product ID": 55,
-  "Product Name": "Sweater",
-  "Brand": "Adidas",
-  "Category": "Kids' Fashion",
-  "Price": 76,
-  "Rating": "2.820647079283965",
-  "Color": "Red",
-  "Size": "S"
-},
-{
-  "User ID": 24,
-  "Product ID": 56,
-  "Product Name": "Dress",
-  "Brand": "Nike",
-  "Category": "Women's Fashion",
-  "Price": 53,
-  "Rating": "2.251328486675961",
-  "Color": "White",
-  "Size": "XL"
-},
-{
-  "User ID": 99,
-  "Product ID": 57,
-  "Product Name": "Sweater",
-  "Brand": "Adidas",
-  "Category": "Women's Fashion",
-  "Price": 52,
-  "Rating": "3.6131362931746165",
-  "Color": "Red",
-  "Size": "M"
-},
-{
-  "User ID": 83,
-  "Product ID": 58,
-  "Product Name": "Shoes",
-  "Brand": "Adidas",
-  "Category": "Women's Fashion",
-  "Price": 61,
-  "Rating": "1.6845413743576394",
-  "Color": "White",
-  "Size": "L"
-},
-{
-  "User ID": 38,
-  "Product ID": 59,
-  "Product Name": "Dress",
-  "Brand": "Nike",
-  "Category": "Kids' Fashion",
-  "Price": 93,
-  "Rating": "3.158493604214389",
-  "Color": "Blue",
-  "Size": "M"
-},
-{
-  "User ID": 51,
-  "Product ID": 60,
-  "Product Name": "Shoes",
-  "Brand": "H&M",
-  "Category": "Kids' Fashion",
-  "Price": 24,
-  "Rating": "1.5907130702162253",
-  "Color": "Yellow",
-  "Size": "XL"
-},
-{
-  "User ID": 63,
-  "Product ID": 61,
-  "Product Name": "Shoes",
-  "Brand": "Adidas",
-  "Category": "Women's Fashion",
-  "Price": 25,
-  "Rating": "1.0424088201476893",
-  "Color": "Yellow",
-  "Size": "M"
-},
-{
-  "User ID": 54,
-  "Product ID": 62,
-  "Product Name": "T-shirt",
-  "Brand": "Nike",
-  "Category": "Men's Fashion",
-  "Price": 66,
-  "Rating": "2.063108734779856",
-  "Color": "Blue",
-  "Size": "L"
-},
-{
-  "User ID": 53,
-  "Product ID": 63,
-  "Product Name": "Jeans",
-  "Brand": "Zara",
-  "Category": "Kids' Fashion",
-  "Price": 55,
-  "Rating": "4.026271065991512",
-  "Color": "White",
-  "Size": "L"
-},
-{
-  "User ID": 50,
-  "Product ID": 64,
-  "Product Name": "Shoes",
-  "Brand": "Gucci",
-  "Category": "Kids' Fashion",
-  "Price": 72,
-  "Rating": "1.7792107858467734",
-  "Color": "Red",
-  "Size": "M"
-},
-{
-  "User ID": 6,
-  "Product ID": 65,
-  "Product Name": "Shoes",
-  "Brand": "H&M",
-  "Category": "Kids' Fashion",
-  "Price": 33,
-  "Rating": "3.0450160025950037",
-  "Color": "Yellow",
-  "Size": "XL"
-},
-{
-  "User ID": 87,
-  "Product ID": 66,
-  "Product Name": "Sweater",
-  "Brand": "H&M",
-  "Category": "Kids' Fashion",
-  "Price": 59,
-  "Rating": "4.550917310052925",
-  "Color": "Red",
-  "Size": "XL"
-},
-{
-  "User ID": 84,
-  "Product ID": 67,
-  "Product Name": "Jeans",
-  "Brand": "Gucci",
-  "Category": "Women's Fashion",
-  "Price": 41,
-  "Rating": "4.251683238918625",
-  "Color": "Green",
-  "Size": "M"
-},
-{
-  "User ID": 43,
-  "Product ID": 68,
-  "Product Name": "T-shirt",
-  "Brand": "Gucci",
-  "Category": "Women's Fashion",
-  "Price": 76,
-  "Rating": "4.3049362401792095",
-  "Color": "Red",
-  "Size": "S"
-},
-{
-  "User ID": 3,
-  "Product ID": 69,
-  "Product Name": "Sweater",
-  "Brand": "Gucci",
-  "Category": "Women's Fashion",
-  "Price": 74,
-  "Rating": "3.666667399691832",
-  "Color": "Yellow",
-  "Size": "M"
-},
-{
-  "User ID": 6,
-  "Product ID": 70,
-  "Product Name": "Dress",
-  "Brand": "Gucci",
-  "Category": "Women's Fashion",
-  "Price": 36,
-  "Rating": "2.5386008521607972",
-  "Color": "Yellow",
-  "Size": "M"
-},
-{
-  "User ID": 15,
-  "Product ID": 71,
-  "Product Name": "Sweater",
-  "Brand": "Adidas",
-  "Category": "Women's Fashion",
-  "Price": 35,
-  "Rating": "4.864999297666657",
-  "Color": "White",
-  "Size": "M"
-},
-{
-  "User ID": 94,
-  "Product ID": 72,
-  "Product Name": "T-shirt",
-  "Brand": "H&M",
-  "Category": "Women's Fashion",
-  "Price": 51,
-  "Rating": "2.7936258074198936",
-  "Color": "Yellow",
-  "Size": "M"
-},
-{
-  "User ID": 98,
-  "Product ID": 73,
-  "Product Name": "T-shirt",
-  "Brand": "Gucci",
-  "Category": "Men's Fashion",
-  "Price": 34,
-  "Rating": "2.9239820574485926",
-  "Color": "Red",
-  "Size": "M"
-},
-{
-  "User ID": 6,
-  "Product ID": 74,
-  "Product Name": "Dress",
-  "Brand": "Zara",
-  "Category": "Women's Fashion",
-  "Price": 68,
-  "Rating": "2.8808081878968665",
-  "Color": "White",
-  "Size": "XL"
-},
-{
-  "User ID": 42,
-  "Product ID": 75,
-  "Product Name": "Dress",
-  "Brand": "H&M",
-  "Category": "Women's Fashion",
-  "Price": 86,
-  "Rating": "2.889443699732862",
-  "Color": "Blue",
-  "Size": "S"
-},
-{
-  "User ID": 54,
-  "Product ID": 76,
-  "Product Name": "Jeans",
-  "Brand": "Adidas",
-  "Category": "Women's Fashion",
-  "Price": 39,
-  "Rating": "2.9741393146980504",
-  "Color": "Black",
-  "Size": "XL"
-},
-{
-  "User ID": 37,
-  "Product ID": 77,
-  "Product Name": "Sweater",
-  "Brand": "H&M",
-  "Category": "Kids' Fashion",
-  "Price": 90,
-  "Rating": "2.2282631651177525",
-  "Color": "Blue",
-  "Size": "L"
-},
-{
-  "User ID": 9,
-  "Product ID": 78,
-  "Product Name": "T-shirt",
-  "Brand": "Nike",
-  "Category": "Men's Fashion",
-  "Price": 76,
-  "Rating": "1.2972571933246568",
-  "Color": "White",
-  "Size": "XL"
-}
+   "UserID": 33,
+   "ProductID": 54,
+   "ProductName": "Shoes",
+   "Brand": "H&M",
+   "Category": "Men's Fashion",
+   "Price": 33,
+   "Rating": "2.450522629395141",
+   "Color": "Blue",
+   "Size": "S"
+ },
+ {
+   "UserID": 78,
+   "ProductID": 55,
+   "ProductName": "Sweater",
+   "Brand": "Adidas",
+   "Category": "Kids' Fashion",
+   "Price": 76,
+   "Rating": "2.820647079283965",
+   "Color": "Red",
+   "Size": "S"
+ },
+ {
+   "UserID": 24,
+   "ProductID": 56,
+   "ProductName": "Dress",
+   "Brand": "Nike",
+   "Category": "Women's Fashion",
+   "Price": 53,
+   "Rating": "2.251328486675961",
+   "Color": "White",
+   "Size": "XL"
+ },
+ {
+   "UserID": 99,
+   "ProductID": 57,
+   "ProductName": "Sweater",
+   "Brand": "Adidas",
+   "Category": "Women's Fashion",
+   "Price": 52,
+   "Rating": "3.6131362931746165",
+   "Color": "Red",
+   "Size": "M"
+ },
+ {
+   "UserID": 83,
+   "ProductID": 58,
+   "ProductName": "Shoes",
+   "Brand": "Adidas",
+   "Category": "Women's Fashion",
+   "Price": 61,
+   "Rating": "1.6845413743576394",
+   "Color": "White",
+   "Size": "L"
+ },
+ {
+   "UserID": 38,
+   "ProductID": 59,
+   "ProductName": "Dress",
+   "Brand": "Nike",
+   "Category": "Kids' Fashion",
+   "Price": 93,
+   "Rating": "3.158493604214389",
+   "Color": "Blue",
+   "Size": "M"
+ },
+ {
+   "UserID": 51,
+   "ProductID": 60,
+   "ProductName": "Shoes",
+   "Brand": "H&M",
+   "Category": "Kids' Fashion",
+   "Price": 24,
+   "Rating": "1.5907130702162253",
+   "Color": "Yellow",
+   "Size": "XL"
+ },
+ {
+   "UserID": 63,
+   "ProductID": 61,
+   "ProductName": "Shoes",
+   "Brand": "Adidas",
+   "Category": "Women's Fashion",
+   "Price": 25,
+   "Rating": "1.0424088201476893",
+   "Color": "Yellow",
+   "Size": "M"
+ },
+ {
+   "UserID": 54,
+   "ProductID": 62,
+   "ProductName": "T-shirt",
+   "Brand": "Nike",
+   "Category": "Men's Fashion",
+   "Price": 66,
+   "Rating": "2.063108734779856",
+   "Color": "Blue",
+   "Size": "L"
+ },
+ {
+   "UserID": 53,
+   "ProductID": 63,
+   "ProductName": "Jeans",
+   "Brand": "Zara",
+   "Category": "Kids' Fashion",
+   "Price": 55,
+   "Rating": "4.026271065991512",
+   "Color": "White",
+   "Size": "L"
+ },
+ {
+   "UserID": 50,
+   "ProductID": 64,
+   "ProductName": "Shoes",
+   "Brand": "Gucci",
+   "Category": "Kids' Fashion",
+   "Price": 72,
+   "Rating": "1.7792107858467734",
+   "Color": "Red",
+   "Size": "M"
+ },
+ {
+   "UserID": 6,
+   "ProductID": 65,
+   "ProductName": "Shoes",
+   "Brand": "H&M",
+   "Category": "Kids' Fashion",
+   "Price": 33,
+   "Rating": "3.0450160025950037",
+   "Color": "Yellow",
+   "Size": "XL"
+ },
+ {
+   "UserID": 87,
+   "ProductID": 66,
+   "ProductName": "Sweater",
+   "Brand": "H&M",
+   "Category": "Kids' Fashion",
+   "Price": 59,
+   "Rating": "4.550917310052925",
+   "Color": "Red",
+   "Size": "XL"
+ },
+ {
+   "UserID": 84,
+   "ProductID": 67,
+   "ProductName": "Jeans",
+   "Brand": "Gucci",
+   "Category": "Women's Fashion",
+   "Price": 41,
+   "Rating": "4.251683238918625",
+   "Color": "Green",
+   "Size": "M"
+ },
+ {
+   "UserID": 43,
+   "ProductID": 68,
+   "ProductName": "T-shirt",
+   "Brand": "Gucci",
+   "Category": "Women's Fashion",
+   "Price": 76,
+   "Rating": "4.3049362401792095",
+   "Color": "Red",
+   "Size": "S"
+ },
+ {
+   "UserID": 3,
+   "ProductID": 69,
+   "ProductName": "Sweater",
+   "Brand": "Gucci",
+   "Category": "Women's Fashion",
+   "Price": 74,
+   "Rating": "3.666667399691832",
+   "Color": "Yellow",
+   "Size": "M"
+ },
+ {
+   "UserID": 6,
+   "ProductID": 70,
+   "ProductName": "Dress",
+   "Brand": "Gucci",
+   "Category": "Women's Fashion",
+   "Price": 36,
+   "Rating": "2.5386008521607972",
+   "Color": "Yellow",
+   "Size": "M"
+ },
+ {
+   "UserID": 15,
+   "ProductID": 71,
+   "ProductName": "Sweater",
+   "Brand": "Adidas",
+   "Category": "Women's Fashion",
+   "Price": 35,
+   "Rating": "4.864999297666657",
+   "Color": "White",
+   "Size": "M"
+ },
+ {
+   "UserID": 94,
+   "ProductID": 72,
+   "ProductName": "T-shirt",
+   "Brand": "H&M",
+   "Category": "Women's Fashion",
+   "Price": 51,
+   "Rating": "2.7936258074198936",
+   "Color": "Yellow",
+   "Size": "M"
+ },
+ {
+   "UserID": 98,
+   "ProductID": 73,
+   "ProductName": "T-shirt",
+   "Brand": "Gucci",
+   "Category": "Men's Fashion",
+   "Price": 34,
+   "Rating": "2.9239820574485926",
+   "Color": "Red",
+   "Size": "M"
+ },
+ {
+   "UserID": 6,
+   "ProductID": 74,
+   "ProductName": "Dress",
+   "Brand": "Zara",
+   "Category": "Women's Fashion",
+   "Price": 68,
+   "Rating": "2.8808081878968665",
+   "Color": "White",
+   "Size": "XL"
+ },
+ {
+   "UserID": 42,
+   "ProductID": 75,
+   "ProductName": "Dress",
+   "Brand": "H&M",
+   "Category": "Women's Fashion",
+   "Price": 86,
+   "Rating": "2.889443699732862",
+   "Color": "Blue",
+   "Size": "S"
+ },
+ {
+   "UserID": 54,
+   "ProductID": 76,
+   "ProductName": "Jeans",
+   "Brand": "Adidas",
+   "Category": "Women's Fashion",
+   "Price": 39,
+   "Rating": "2.9741393146980504",
+   "Color": "Black",
+   "Size": "XL"
+ },
+ {
+   "UserID": 37,
+   "ProductID": 77,
+   "ProductName": "Sweater",
+   "Brand": "H&M",
+   "Category": "Kids' Fashion",
+   "Price": 90,
+   "Rating": "2.2282631651177525",
+   "Color": "Blue",
+   "Size": "L"
+ },
+ {
+   "UserID": 9,
+   "ProductID": 78,
+   "ProductName": "T-shirt",
+   "Brand": "Nike",
+   "Category": "Men's Fashion",
+   "Price": 76,
+   "Rating": "1.2972571933246568",
+   "Color": "White",
+   "Size": "XL"
+ },
+ {
+   "UserID": 26,
+   "ProductID": 79,
+   "ProductName": "T-shirt",
+   "Brand": "Nike",
+   "Category": "Men's Fashion",
+   "Price": 11,
+   "Rating": "1.3334220867175706",
+   "Color": "Red",
+   "Size": "L"
+ },
+ {
+   "UserID": 71,
+   "ProductID": 80,
+   "ProductName": "Jeans",
+   "Brand": "Nike",
+   "Category": "Kids' Fashion",
+   "Price": 21,
+   "Rating": "2.938056289633595",
+   "Color": "Red",
+   "Size": "XL"
+ },
+ {
+   "UserID": 72,
+   "ProductID": 81,
+   "ProductName": "T-shirt",
+   "Brand": "Nike",
+   "Category": "Women's Fashion",
+   "Price": 66,
+   "Rating": "2.4034400018052815",
+   "Color": "Green",
+   "Size": "S"
+ },
+ {
+   "UserID": 100,
+   "ProductID": 82,
+   "ProductName": "Dress",
+   "Brand": "H&M",
+   "Category": "Kids' Fashion",
+   "Price": 31,
+   "Rating": "4.612706002521094",
+   "Color": "Blue",
+   "Size": "S"
+ },
+ {
+   "UserID": 69,
+   "ProductID": 83,
+   "ProductName": "Shoes",
+   "Brand": "Nike",
+   "Category": "Women's Fashion",
+   "Price": 49,
+   "Rating": "1.421790366569129",
+   "Color": "Blue",
+   "Size": "L"
+ },
+ {
+   "UserID": 19,
+   "ProductID": 84,
+   "ProductName": "Sweater",
+   "Brand": "Adidas",
+   "Category": "Women's Fashion",
+   "Price": 42,
+   "Rating": "2.5601740446118324",
+   "Color": "Red",
+   "Size": "L"
+ },
+ {
+   "UserID": 84,
+   "ProductID": 85,
+   "ProductName": "Shoes",
+   "Brand": "Nike",
+   "Category": "Women's Fashion",
+   "Price": 89,
+   "Rating": "1.107632847390418",
+   "Color": "Yellow",
+   "Size": "XL"
+ },
+ {
+   "UserID": 4,
+   "ProductID": 86,
+   "ProductName": "Sweater",
+   "Brand": "Zara",
+   "Category": "Men's Fashion",
+   "Price": 50,
+   "Rating": "3.276221602515569",
+   "Color": "Yellow",
+   "Size": "M"
+ },
+ {
+   "UserID": 21,
+   "ProductID": 87,
+   "ProductName": "Shoes",
+   "Brand": "Nike",
+   "Category": "Men's Fashion",
+   "Price": 41,
+   "Rating": "4.126941613678208",
+   "Color": "Red",
+   "Size": "S"
+ },
+ {
+   "UserID": 85,
+   "ProductID": 88,
+   "ProductName": "Dress",
+   "Brand": "Nike",
+   "Category": "Kids' Fashion",
+   "Price": 61,
+   "Rating": "2.5578921317942567",
+   "Color": "White",
+   "Size": "L"
+ },
+ {
+   "UserID": 10,
+   "ProductID": 89,
+   "ProductName": "Dress",
+   "Brand": "Gucci",
+   "Category": "Men's Fashion",
+   "Price": 66,
+   "Rating": "3.8964369624700685",
+   "Color": "White",
+   "Size": "L"
+ },
+ {
+   "UserID": 2,
+   "ProductID": 90,
+   "ProductName": "Jeans",
+   "Brand": "H&M",
+   "Category": "Men's Fashion",
+   "Price": 37,
+   "Rating": "3.961592462639102",
+   "Color": "Red",
+   "Size": "XL"
+ },
+ {
+   "UserID": 90,
+   "ProductID": 91,
+   "ProductName": "Jeans",
+   "Brand": "H&M",
+   "Category": "Kids' Fashion",
+   "Price": 85,
+   "Rating": "3.0525558220725153",
+   "Color": "Green",
+   "Size": "XL"
+ },
+ {
+   "UserID": 6,
+   "ProductID": 92,
+   "ProductName": "Jeans",
+   "Brand": "Adidas",
+   "Category": "Men's Fashion",
+   "Price": 100,
+   "Rating": "1.8450713044064728",
+   "Color": "White",
+   "Size": "M"
+ },
+ {
+   "UserID": 33,
+   "ProductID": 93,
+   "ProductName": "Shoes",
+   "Brand": "Nike",
+   "Category": "Men's Fashion",
+   "Price": 70,
+   "Rating": "4.928128215414036",
+   "Color": "White",
+   "Size": "S"
+ },
+ {
+   "UserID": 12,
+   "ProductID": 94,
+   "ProductName": "Shoes",
+   "Brand": "Zara",
+   "Category": "Women's Fashion",
+   "Price": 21,
+   "Rating": "3.941875648194909",
+   "Color": "Yellow",
+   "Size": "XL"
+ },
+ {
+   "UserID": 62,
+   "ProductID": 95,
+   "ProductName": "Shoes",
+   "Brand": "Gucci",
+   "Category": "Women's Fashion",
+   "Price": 58,
+   "Rating": "1.971525134654164",
+   "Color": "Blue",
+   "Size": "S"
+ },
+ {
+   "UserID": 22,
+   "ProductID": 96,
+   "ProductName": "Dress",
+   "Brand": "Gucci",
+   "Category": "Women's Fashion",
+   "Price": 30,
+   "Rating": "4.655251630403741",
+   "Color": "Red",
+   "Size": "L"
+ },
+ {
+   "UserID": 18,
+   "ProductID": 97,
+   "ProductName": "Jeans",
+   "Brand": "Gucci",
+   "Category": "Men's Fashion",
+   "Price": 52,
+   "Rating": "3.7618905512261387",
+   "Color": "Green",
+   "Size": "L"
+ },
+ {
+   "UserID": 44,
+   "ProductID": 98,
+   "ProductName": "Sweater",
+   "Brand": "Gucci",
+   "Category": "Kids' Fashion",
+   "Price": 61,
+   "Rating": "4.277089915641023",
+   "Color": "Black",
+   "Size": "XL"
+ },
+ {
+   "UserID": 25,
+   "ProductID": 99,
+   "ProductName": "Shoes",
+   "Brand": "Nike",
+   "Category": "Kids' Fashion",
+   "Price": 93,
+   "Rating": "4.280090724853463",
+   "Color": "Yellow",
+   "Size": "L"
+ }
 ]
